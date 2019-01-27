@@ -4,7 +4,13 @@ a.rBlue {
 }
 
 a.rBlue:hover {
-  color: black;
+  color: pink;
   text-decoration: none;
   cursor: pointer;
+}
+
+#img1 {
+object-fit: fill;
+width: 1150px;
+height: 450px;
 }
